@@ -18,3 +18,6 @@ spadok_house is a guest house located in Kamianets-Podilskyi, Ukraine, at vul. D
 
 ## Notes
 The page explicitly states several details are not yet confirmed: room count, categories, capacity, in-room and property amenities (Wi-Fi, air conditioning, private bathroom, kitchen, breakfast, parking, terrace or yard), and any historical or architectural landmark status of the building. All current photos are marked as illustrative, not actual photos of the property.
+
+## Forms
+The `stay-request` form posts to HotelOS (hotel `kp-spadokhouse`); phone is the only required field. No service forms (no verified services beyond accommodation).
